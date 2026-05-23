@@ -1,8 +1,7 @@
 # Oracle Database Engineering Project
 
 A two-tier database application for CSC 460 (Database Design) — an Oracle-backed pet café with a Java JDBC front-end. The system supports member accounts, reservations, visits, orders, pet care records, adoptions, events, and reporting through a menu-driven CLI.
-
-**Course:** CSC 460 — Database Design  
+  
 **Authors:** Nathan Tebbs, Krish Patel, CJ De Vault, Shayden Lowry  
 **Completed:** December 2025
 
