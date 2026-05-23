@@ -1,0 +1,56 @@
+SET PAGESIZE 200
+SET LINESIZE 200
+SET WRAP OFF
+
+PROMPT === MEMBERSHIP TIERS ===
+SELECT * FROM membership_tier;
+
+PROMPT === MEMBERS ===
+SELECT * FROM member;
+
+PROMPT === MEMBERSHIP PAYMENTS ===
+SELECT * FROM membership_payment;
+
+PROMPT === STAFF ===
+SELECT * FROM staff;
+
+PROMPT === ROOMS ===
+SELECT * FROM room;
+
+PROMPT === PETS ===
+SELECT * FROM pet;
+
+PROMPT === HEALTH RECORDS ===
+SELECT * FROM health_record;
+
+PROMPT === BEHAVIORAL ASSESSMENTS ===
+SELECT * FROM behavioral_assessment;
+
+PROMPT === ADOPTION APPLICATIONS ===
+SELECT * FROM adoption_application;
+
+PROMPT === ADOPTION RECORDS ===
+SELECT * FROM adoption_record;
+
+PROMPT === RESERVATIONS ===
+SELECT * FROM reservation;
+
+PROMPT === VISITS ===
+SELECT * FROM visit;
+
+PROMPT === MENU ITEMS ===
+SELECT * FROM menu_item;
+
+PROMPT === CAFE ORDERS ===
+SELECT * FROM cafe_order;
+
+PROMPT === ORDER ITEMS ===
+SELECT * FROM order_item;
+
+PROMPT === EVENTS ===
+SELECT * FROM event;
+
+PROMPT === EVENT REGISTRATIONS ===
+SELECT * FROM event_registration;
+
+PROMPT === DONE ===
