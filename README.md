@@ -1,6 +1,5 @@
-# CSC460Prog4
-
-In this assignment there is a two–tier client–server architecture:
+# Data Warehouse & Relational Database Engineering Project
+In this project there is a two–tier client–server architecture:
 
 1. Database Back-End, which runs the Oracle DBMS on aloe.cs.arizona.edu. This includes the creation
    of a database relational schema, and tables populated with some initial data. This design will be
